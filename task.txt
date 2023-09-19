@@ -1,0 +1,5 @@
+1,Complete Project Proposal,2023-08-30,Completed,h
+2,Review Code Changes,2023-08-29,Not Completed,m
+3,Grocery Shopping,2023-08-31,Not Completed,l
+4,Write Blog Post,2023-09-02,Not Completed,m
+5,Exercise,2023-08-28,Not Completed,m
